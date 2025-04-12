@@ -33,7 +33,7 @@ A smart, end-to-end pipeline that parses **Job Descriptions** and **Candidate CV
 1. **Clone this repository:**
 
 
-git clone https://github.com/yourusername/resume-matcher.git
+git clone https://github.com/SakshiGurav/AutoMatchHR.git
 cd resume-matcher
 
 
